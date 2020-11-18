@@ -1,10 +1,30 @@
-<h1 align="center">Simple Movie DB</h1>
+<h1 align="center">Simple Movie DB  :movie_camera:   +   🔍    =>    { ⚛️ }</h1>
+<h1 align="center">Demo:    https://simple-movie-db.netlify.app/   </h1>
 
 <h1 align="center"><b>Abstract:brain:</b></h1>
 
 This is a javascript based application built using Create-React-App. 
 * It is a clone of the movie review site "IMDB".
 * This application is built using The Movie DataBase API (TMDB API)
+
+<br/>
+<br/>
+
+<h1 align="center"><b>Built Using:hammer:</b></h1>
+<p align="center"><img src="https://user-images.githubusercontent.com/64122408/99558804-1cf77e80-29ea-11eb-932c-8a7b24e01118.png" alt="create-react-app" width="200" />&emsp;&emsp;&emsp;
+<img src="https://user-images.githubusercontent.com/64122408/99559334-ab6c0000-29ea-11eb-8bee-64d91bb0f0b7.png" alt="tmdb-api" width="150" />
+</p>
+
+<br/>
+<br/>
+<h1 align="center"><b>Screenshots :camera_flash:</b></h1>
+
+
+# Desktop
+![smdb-pc-view-HD-720p](https://user-images.githubusercontent.com/64122408/99557936-364bfb00-29e9-11eb-9910-9179c4d50077.gif)
+
+# Mobile
+![smdb-rec-fone-HD-720p](https://user-images.githubusercontent.com/64122408/99558328-9f337300-29e9-11eb-93e9-1ad3f7937728.gif)
 
 
 # Getting Started with Create React App
@@ -48,32 +68,23 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+<br/>
+<br/>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<h1 align="center"><b>NOTE :warning:</b></h1>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+# Feel free to fork This Project😇
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+# CREDITS  
+:white_check_mark:**Karthik Raja**
+<p align="left">  
+<h3 align="left">Connect with me:</h3>  
+<a href="https://twitter.com/mranonymousofcl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mranonymousofcl" height="30" width="40" /></a>  
+<a href="https://instagram.com/mr.anonymous_official" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mr.anonymous_official" height="30" width="40" /></a>  
+<a href="https://discord.com/channels/mr_anonymous_2001#4770" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="mranonymousofcl" height="30" width="40" /></a>
+</p>  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
