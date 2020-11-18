@@ -1,3 +1,12 @@
+<h1 align="center">Simple Movie DB</h1>
+
+<h1 align="center"><b>Abstract:brain:</b></h1>
+
+This is a javascript based application built using Create-React-App. 
+* It is a clone of the movie review site "IMDB".
+* This application is built using The Movie DataBase API (TMDB API)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
