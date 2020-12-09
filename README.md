@@ -1,6 +1,11 @@
 <h1 align="center">Simple Movie DB  :movie_camera:   +   🔍    =>    { ⚛️ }</h1>
-<h1 align="center">Demo:    https://simple-movie-db.netlify.app/   </h1>
+<h1 align="center">Demo:    https://simple-movie-db.netlify.app/   </h1><br/>
+  
+[![Netlify Status](https://api.netlify.com/api/v1/badges/84ac09a9-ec26-47b4-ad6d-3bfe08ea252a/deploy-status)](https://app.netlify.com/sites/simple-movie-db/deploys)&emsp;&emsp;
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/mr-anonymous-official/blue-sky-weather/blob/master/LICENSE)&emsp;&emsp;
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)&emsp;&emsp;
 
+<br/>
 <h1 align="center"><b>Abstract:brain:</b></h1>
 
 This is a javascript based application built using Create-React-App. 
